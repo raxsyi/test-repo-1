@@ -3,3 +3,5 @@ ini baris ke -2 di buatnya di branch main
 barus ke-3 dibuat ada branch main
 menambahkan baris ke -4 setelah permbuatan file (posisi di comit-2)
 menambahkan baris ke -4 setelah permbuatan file (posisi di comit-2)
+menambahkan baris ke -6 setelah permbuatan file (posisi di comit-2)
+menambahkan baris ke -7 setelah permbuatan file (posisi di comit-2)
